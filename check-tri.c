@@ -11,7 +11,7 @@ void main()
 	printf("equillaterial triangle");
     }
     
-    else if(a==b && b!=c)
+    else if(a==b && b!=c) 
     {
     	printf("isoscales triangle");
 	}
