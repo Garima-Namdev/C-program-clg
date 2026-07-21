@@ -3,7 +3,8 @@
 void show();
 void show()
 {
-	printf("HELLO WORLD ");
+	printf("HELLO WORLD "); 
+	
 }
 void main()
 {
